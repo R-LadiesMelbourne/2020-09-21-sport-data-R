@@ -1,0 +1,14 @@
+---
+title: "Sport, data, R"
+date: "21/09/2020"
+author: Alice Sweeting
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Find the slides [here](https://sportstatisticsrsweet.github.io/RLadiesMelbourneTalk/Slides#1). 
+
+Find the video on YouTube: [TO BE ADDED]
